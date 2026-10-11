@@ -5,3 +5,4 @@ Todos:
 - [ ] add training loop
 - [ ] add speculative decoding
 - [ ] add interesting completion runs
+- [ ] Blog post / writeup
